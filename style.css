@@ -37,7 +37,7 @@ body{
     background-image: url("download\ \(1\).jpg");
     color: rgb(247, 5, 5);
     text-align: center;
-    
+    background-size: cover;
 
 }
 .cl2{
@@ -45,6 +45,7 @@ body{
 background-image: url("2023-05-09.jpg");
 color: aliceblue;
 text-align: center;
+background-size: cover;
 
 
 }
@@ -52,4 +53,5 @@ text-align: center;
     width: 15%;
     background-image: url("download.jpg");
 color: aliceblue;
-text-align: center;}
+text-align: center;
+background-size: cover;}
