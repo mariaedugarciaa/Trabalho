@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    /*Formatações */
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: bisque;
+    
+}
+.topo{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 15px;
+    background-color: rgb(4, 153, 128);
+    color: black;
+
+}
+.faixinha{
+    background-color: green;
+    height: 20px;
+}
+.container{
+    overflow:hidden
+ 
+ }
+ .colunas{
+    float: left;
+    min-height: 400px;
+}
+.cl1{
+    width: 20%;
+    background-image: url("download\ \(1\).jpg");
+    color: rgb(247, 5, 5);
+    text-align: center;
+    
+
+}
+.cl2{
+    width: 65%;
+background-image: url("2023-05-09.jpg");
+color: aliceblue;
+text-align: center;
+
+
+}
+.cl3{
+    width: 15%;
+    background-image: url("download.jpg");
+color: aliceblue;
+text-align: center;}
